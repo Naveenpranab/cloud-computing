@@ -2,5 +2,5 @@
 
 GIT COLLAB EXCERCISE
 
-A simple repository for github collaboration exersice
+A simple repository for github collaboration excercise
 
